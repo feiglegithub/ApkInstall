@@ -1,0 +1,10 @@
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\ApkInstall.Form1.resources
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.csproj.GenerateResource.cache
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.csproj.CoreCompileInputs.cache
+D:\C#Project\ApkInstall\ApkInstall\bin\Debug\AppInstall.exe.config
+D:\C#Project\ApkInstall\ApkInstall\bin\Debug\AppInstall.exe
+D:\C#Project\ApkInstall\ApkInstall\bin\Debug\AppInstall.pdb
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.Properties.Resources.resources
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.exe
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.pdb
+D:\C#Project\ApkInstall\ApkInstall\obj\Debug\AppInstall.csprojAssemblyReference.cache
